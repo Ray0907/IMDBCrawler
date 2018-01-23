@@ -1,3 +1,5 @@
+#!/usr/bin/python
+#coding:utf-8
 import scrapy
 from scrapy.spiders import CrawlSpider
 from scrapy.http import Request
